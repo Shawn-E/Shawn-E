@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋, im shawn
+
+🔭 I’m currently working on some discord bots 
+
+check out my [store](https://store.shawnengmann.com/)
+
+📫 How to reach me: join the server 
 
 <!--
 **Shawn-E/Shawn-E** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
