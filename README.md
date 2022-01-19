@@ -1,10 +1,12 @@
-### Hi there 👋, im shawn
+#Shawn E,
 
 🔭 I’m currently working on some discord bots 
 
 check out my [store](https://store.shawnengmann.com/)
 
 📫 How to reach me: join the server 
+
+🤔 Owner of [Harley Develoepment](https://store.shawnengmann.com/)
 
 <!--
 **Shawn-E/Shawn-E** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
