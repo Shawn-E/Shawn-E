@@ -1,4 +1,6 @@
-#Shawn E,
+# Shawn E
+
+### Hi there 👋
 
 🔭 I’m currently working on some discord bots 
 
