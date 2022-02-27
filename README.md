@@ -10,6 +10,8 @@ check out my [store](https://store.shawnengmann.com/)
 
 🤔 Owner of [Harley Develoepment](https://store.shawnengmann.com/)
 
+PayPal: https://paypal.me/harledevelopement?country.x=US&locale.x=en_US
+
 <!--
 **Shawn-E/Shawn-E** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
