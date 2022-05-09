@@ -60,6 +60,6 @@ Hello, I am a young aspiring software developer. I have been coding for a little
 
 <h3 align=center>Show some ❤️ by starring some of the repositories!</h3>
 
-<h4 align=center>Template By [Hyperz](https://hyperz.net)  </h4>
-
 ---
+
+<h4 align=center>Template By <a href="https://hyperz.net"> Hyperz </a></h4>
