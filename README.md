@@ -18,7 +18,7 @@ Hello, I am a young aspiring software developer. I have been coding for a little
 
 ### Languages and Tools:
 
-![My Skills](https://skillicons.dev/icons?i=js,html,css,github,linkedin,bootstrap,discord,bots,express,github,instagram,jquery,linux,md,mysql,nginx,nodejs,py,twitter,vscode&theme=dark&perline=3
+![My Skills](https://skillicons.dev/icons?i=js,html,css,github,linkedin,bootstrap,discord,bots,express&theme=dark&perline=3
 
 ### ⚙️ &nbsp;GitHub Stats
 
