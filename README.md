@@ -3,7 +3,7 @@
 <img align="right" height="60" width="60" alt="" src="http://hyperz.dev/images/logowhite.png" />
 
 [![Discord Badge](https://img.shields.io/badge/-Discord-0e76a8?style=flat-square&logo=Discord&logoColor=white)](https://store.shawnengmann.com/discord)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://store.shawnengmann.com/)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://shawnengmann.com/)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-ffffff?style=flat-square&logo=Github&logoColor=black)](https://github.com/Shawn-E/)
 
 ### Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=Shawn-Erz&label=Views&color=blue&style=plastic) 
