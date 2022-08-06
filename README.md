@@ -46,7 +46,8 @@ Hello, I am a young aspiring software developer. I have been coding for a little
 
 ### ⚙️ My Resources & Tools:
 
-- OS: Windows 10 / 11
+- OS: Windows 11
+- Linux - Ubuntu 20.4
 - Laptop: HP Omen
 - Desktop Computer
 - Browser: Microsoft Edge / Google Chrome
