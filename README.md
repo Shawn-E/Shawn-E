@@ -1,6 +1,6 @@
 ## Hey 👋, I'm [Shawn E.!](https://store.shawnengmann.com) (Follow Me!)
 
-<img align="right" height="60" width="60" alt="" src="http://hyperz.dev/images/logowhite.png" />
+<img align="right" height="60" width="60" alt="" src="http://store.shawnengmann.com/assets/logo.png" />
 
 [![Discord Badge](https://img.shields.io/badge/-Discord-0e76a8?style=flat-square&logo=Discord&logoColor=white)](https://store.shawnengmann.com/discord)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://shawnengmann.com/)
@@ -11,9 +11,8 @@
 Hello, I am a young aspiring software developer. I have been coding for a little over a year now and have been working on the daily to improve my skill. I hope to learn how to further advance my bot development in the comming months or even years. Some of my future goals are to be able to work alongside with some other amazing developers to make a product(s) that people have been looking for or somthing that we all find interesing. Another on of my goals is to learn how to make websites using EJS.
 
 
-[![DOD Badge](https://img.shields.io/badge/TEAM-SHAWNS%20DEVELOPMENT-17a6ec?style=for-the-badge)](https://hyperz.dev/discord)
+[![DOD Badge](https://img.shields.io/badge/TEAM-SHAWNS%20DEVELOPMENT-17a6ec?style=for-the-badge)](https://shawnengmann.com)
 
-<img align="right" height="215" width="325" alt="" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif" />
 
 
 ### Languages and Tools:
