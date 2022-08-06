@@ -18,20 +18,7 @@ Hello, I am a young aspiring software developer. I have been coding for a little
 
 ### Languages and Tools:
 
-![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
-![](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)&nbsp;
-![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;
-![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
-![](https://img.shields.io/badge/Linux-d94100?style=for-the-badge&logo=linux&logoColor=white)&nbsp;
-![](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)&nbsp;
-![](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)&nbsp;
-![](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)&nbsp;
-![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-![](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)&nbsp;
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,github,linkedin,bootstrap,discord,bots,express,github,instagram,jquery,linux,md,mysql,nginx,nodejs,py,twitter,vscode](https://skillicons.dev)
 
 ### ⚙️ &nbsp;GitHub Stats
 
