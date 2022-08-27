@@ -38,7 +38,7 @@ Hello, I am a young aspiring software developer. I have been coding for a little
 - Desktop Computer
 - Browser: Microsoft Edge / Google Chrome
 - Code Editor: VSCode
-- Stay Updated: [Discord](https://store.shawnengmann.com/discord/),
+- Stay Updated: [Discord](https://store.shawnengmann.com/discord/)
 
 ---
 
