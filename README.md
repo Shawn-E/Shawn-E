@@ -4,7 +4,8 @@ Hi 👋 My name is Shawn Engamnn
 Web Developer
 -------------
 
-sad
+Hello, I'm Shawn Engmann and I live on Long Island, New York. I am 14 years old and run a mini business for my enjoyment. I know many programming languages, check out the skills page to learn more. I also know how to speak French a little bit. I have worked on many projects throughout my time coding. I started my coding journey with a class by Code Wizards . I have taken a few courses including Intro To Programming With Python, Webpages with HTML & CSS, Interactive Web With Javascript, Capstone I Virtual Reality Game, User Interface Development. Throughout this time I took interest in Web Development and development of Discord bots with Discord.js. I hope to expand my knowledge of coding over the next few years.
+
 
 * 🌍  I'm based in New York
 * 🖥️  See my portfolio at [My Portfolio](http://shawnengmann.com)
