@@ -13,7 +13,7 @@ Hello, I'm Shawn Engmann and I live on Long Island, New York. I am 14 years old 
 * 🧠  I'm learning React.JS
 * 🤝  I'm open to collaborating on Web Development Projects
 
-* 🏢 Open For Hire ([me@shawnengmann.com](mailto:me@shawnengmann.com?subject="Potential Job Opportunity"))
+* 🏢 Open For Hire [Email Me](mailto:me@shawnengmann.com?subject="Potential Job Opportunity")
 
 <a href="https://www.twitter.com/shawn_e07" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/shawn_e07?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
