@@ -17,8 +17,12 @@ Hello, I'm Shawn Engmann and I live on Long Island, New York. I am 14 years old 
 
 <a href="https://www.twitter.com/shawn_e07" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/shawn_e07?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a><a href="https://www.github.com/Shawn-E" target="_blank" rel="noreferrer"><img
+/></a>
+<br>
+<a href="https://www.github.com/Shawn-E" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Shawn-E?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<br>
+[![wakatime](https://wakatime.com/badge/user/a1ef24fb-8ca7-49f4-887e-f0af8f413234.svg?style=for-the-badge)](https://wakatime.com/@a1ef24fb-8ca7-49f4-887e-f0af8f413234)
 
 ### Skills
 
