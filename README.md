@@ -2,7 +2,7 @@
 
 ## **Featured Work**
 
-📋 - [ClickUp API Wrapper](https://github.com/Shawn-E/nodejs-clickup)
+### 📋 - [ClickUp API Wrapper](https://github.com/Shawn-E/nodejs-clickup)
 
 ## **Connect With Me**
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/5MHRgES2Ec) 
