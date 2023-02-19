@@ -43,4 +43,7 @@
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S3IV4CP)
 
 ## **Featured**
-![[AI Camp](https://static.wixstatic.com/media/12b467_a4ceef0f338c41c7885cb083ea36a00f~mv2_d_1742_1743_s_2.png/v1/fill/w_68,h_68,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ai%20camp%20logo.png)](https://ai-camp.org)
+
+### **AI Camp**
+*Learn AI with zero coding experience*
+[https://ai-camp.org](https://ai-camp.org)
