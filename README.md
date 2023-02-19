@@ -45,9 +45,9 @@
 ## **Featured**
 
 ### **AI Camp**
-*Learn AI with zero coding experience* <br\>
+*Learn AI with zero coding experience* <br/>
 [https://ai-camp.org](https://ai-camp.org)
 
 ### **Weblutions**
-*Top grade software for you* <br\>
+*Top grade software for you* <br/>
 [https://weblutions.com](https://weblutions.com)
