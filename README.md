@@ -37,3 +37,6 @@
 ## **My Github Stats**
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Shawn%20E.&theme=onedark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shawn-E&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+## **Support Me**
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S3IV4CP)
