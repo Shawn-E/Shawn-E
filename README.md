@@ -1,8 +1,5 @@
 # Hello I'm Shawn
 
-## **Featured Work**
-
-### 📋 - [ClickUp API Wrapper](https://github.com/Shawn-E/nodejs-clickup)
 
 <!-- ## **Connect With Me**
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/5MHRgES2Ec) 
@@ -43,11 +40,3 @@
 ## **Support Me**
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S3IV4CP)
 
-## **Featured**
-### **AI Camp**
-*Learn AI with zero coding experience* <br/>
-[https://ai-camp.org](https://ai-camp.org)
-
-### **Weblutions**
-*Top grade software for you* <br/>
-[https://weblutions.com](https://weblutions.com)
